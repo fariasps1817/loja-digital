@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'segoe ui', sans-serif;
+    color: #000;
+    text-decoration: none;
+    list-style: none;
+}
+
+body *{
+        display: block;
+}
+
+html, body{
+    height: 100%;
+}
